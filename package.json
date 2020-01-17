@@ -1,0 +1,30 @@
+{
+  "name": "decurse-text",
+  "version": "0.0.0",
+  "description": "decurse text like ť͈̓̆h̏̔̐̑ì̭ͯ͞s̈́̄̑͋ -> this",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unzalgo",
+    "zalgo"
+  ],
+  "author": "talmobi <talmo.christian@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talmobi/"
+  },
+  "bugs": {
+    "url": "https://github.com/talmobi//issues",
+    "email": "talmo.christian@gmail.com"
+  },
+  "dependencies": {
+    "unzalgo": "~2.1.2"
+  },
+  "devDependencies": {
+    "tape": "~4.13.0"
+  }
+}
