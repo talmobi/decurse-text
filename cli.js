@@ -4,7 +4,7 @@ const decurse = require( './main.js' )
 
 const args = process.argv.slice( 2 )
 
-let _threshold = 0.5
+let _threshold = undefined
 
 if ( args[ 0 ] ) {
   const n = Number( args[ 0 ] )
