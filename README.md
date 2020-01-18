@@ -1,5 +1,5 @@
 #  decurse-text
-Transform text like this -> t̛͚̖̾eͫͥ̏̓x̱ͩ̽͡t̺́͂͟ ̥̬̍͠l̻̯̝͑ḯ̭͙̟k̴̰͘͟e̢̜̻̲ ̮͔ͩ̕ť̡̳̓h̩̮̺̒i̥̅̐͜s̜̻̍ͦ
+Untransform t̛͚̖̾eͫͥ̏̓x̱ͩ̽͡t̺́͂͟ ̥̬̍͠l̻̯̝͑ḯ̭͙̟k̴̰͘͟e̢̜̻̲ ̮͔ͩ̕ť̡̳̓h̩̮̺̒i̥̅̐͜s̜̻̍ͦ -> text like this
 
 Also known as [zalgo text](https://en.wikipedia.org/wiki/Combining_character#Zalgo_text)
 
