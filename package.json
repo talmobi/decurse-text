@@ -22,10 +22,10 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/talmobi/"
+    "url": "https://github.com/talmobi/decurse-text"
   },
   "bugs": {
-    "url": "https://github.com/talmobi//issues",
+    "url": "https://github.com/talmobi/decurse-text/issues",
     "email": "talmo.christian@gmail.com"
   },
   "dependencies": {
