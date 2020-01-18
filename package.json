@@ -25,6 +25,7 @@
     "unzalgo": "~2.1.2"
   },
   "devDependencies": {
+    "execa": "~4.0.0",
     "tape": "~4.13.0"
   }
 }
