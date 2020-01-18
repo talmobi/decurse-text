@@ -96,7 +96,7 @@ test( 'cli: basic false zalgo 2', async function ( t ) {
   } )
 
   cli.stdout.on( 'end', function ( chunk ) {
-    t.equal( decurse( buffer ), text )
+    t.equal( buffer, text )
   } )
 
   cli.stdout.on( 'error', function ( err ) {
