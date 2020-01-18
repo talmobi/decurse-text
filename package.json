@@ -6,6 +6,10 @@
   "bin": {
     "decurse-text": "./cli.js"
   },
+  "files": [
+    "cli.js",
+    "main.js"
+  ],
   "scripts": {
     "test": "node test/test.js"
   },
